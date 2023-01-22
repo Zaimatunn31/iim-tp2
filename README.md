@@ -1,1 +1,12 @@
-# iim-tp2
+# Getting Started with Create React App
+
+User account in data.json file
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+`npm install ` then `npm start `
