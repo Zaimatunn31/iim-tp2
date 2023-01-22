@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": "01",
+            "email": "iim@gmail.com",
+            "password" : "test1"
+            
+        }, 
+        {
+            "id": "02",
+            "email": "zaim@gmail.com",
+            "password" : "test2"
+            
+        }
+    ]
+}
